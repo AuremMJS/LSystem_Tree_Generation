@@ -1,0 +1,2 @@
+	trunk: F(3.0f)[-30Branch][+30Branch]F(0.01f)[^40Branch][&40Branch]
+	branch: F(1.0f)[-30Twig][+30Twig]F(1.0f)[-30Branch][+30Branch]F(1.0f)[^40Branch][&40Branch][-30Twig][+30Twig]
